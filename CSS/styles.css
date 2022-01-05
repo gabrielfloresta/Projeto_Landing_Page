@@ -258,5 +258,9 @@ display: none;
     .menu-spacing {
         display: none;
     }
+
+    h2 {
+        font-size: 30px;
+    }
 }
 
